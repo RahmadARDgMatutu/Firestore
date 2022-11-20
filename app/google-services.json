@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "612506727417",
+    "project_id": "firestore-6c5c3",
+    "storage_bucket": "firestore-6c5c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612506727417:android:680231e52d1b5b89ea8328",
+        "android_client_info": {
+          "package_name": "com.rahmad_f55121042.firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612506727417-mn7n07vv1d482pml3mbn1esc6j3ab23c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNFL2W66f4_Dktbe9-9bMX260vsbfZCDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612506727417-mn7n07vv1d482pml3mbn1esc6j3ab23c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
